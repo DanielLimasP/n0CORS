@@ -2,7 +2,7 @@
   "name": "n0CORS",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "node server.js",
   "scripts": {
     "start": "npm server.js",
     "dev": "nodemon server.js"
